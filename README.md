@@ -3,8 +3,8 @@
 This repository contains a template for creating a resume with LaTeX.
 
 ## Resume Template Example
-<img src='https://i.imgur.com/ybKY4UC.png' title='Resume Template Example' width='' alt='Resume Template Example />
-
+![Resume Template](https://i.imgur.com/ybKY4UC.png)
+                                                                                         
 ## License
 
     Copyright 2020 Michael Signorotti
